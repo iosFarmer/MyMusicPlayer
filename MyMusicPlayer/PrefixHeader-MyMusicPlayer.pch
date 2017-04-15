@@ -1,0 +1,22 @@
+//
+//  PrefixHeader-MyMusicPlayer.pch
+//  MyMusicPlayer
+//
+//  Created by panyanb on 2017/4/6.
+//  Copyright © 2017年 mac. All rights reserved.
+//
+
+#ifndef PrefixHeader_MyMusicPlayer_pch
+#define PrefixHeader_MyMusicPlayer_pch
+
+#import "MyMusicPlayerFuntion.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#define APPLICATION_WILL_ENTER_BACKGROUND "applicationwillenterbackground"
+#define UIVIEWCONTROLL_ORITATION "uiviewcontroller_oritation"
+
+
+#endif /* PrefixHeader_MyMusicPlayer_pch */
+
+
